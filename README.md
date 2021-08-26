@@ -7,7 +7,6 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/manishsahuiitbhu/), [Email](manish.sahu.civ13@iitbhu.ac.in)
 - Check the Corona Virus Dashboard. [Link](https://corona--india-dashboard.herokuapp.com/)
 - Check the Political Meme Generator. [Link](https://share.streamlit.io/manishsahu53/political-meme-generator/main/meme_generator.py)
-- 
 <!--
 **ManishSahu53/ManishSahu53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
