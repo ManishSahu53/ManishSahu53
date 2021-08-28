@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on improving search ranking, and retrieval using ML.
+- 🔭 I’m currently working on Risk and Fraud ML Methods.
 - 🌱 In free time, I watch Friends, Play with Satellite Dataset
-- 👯 I’m looking to collaborate on Remote Sensing Projects.
 - 💬 Ask me about General ML, ComputerVision, Remote Sensing, Satellites,
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/manishsahuiitbhu/), [Email](manish.sahu.civ13@iitbhu.ac.in)
 - Check the Corona Virus Dashboard. [Link](https://corona--india-dashboard.herokuapp.com/)
