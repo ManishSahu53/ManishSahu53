@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Risk and Fraud ML Methods.
+- 🔭 I like problem solving. Works with Data and Mobiles App dev
 - 🌱 In free time, I watch Friends, Play with Satellite Dataset
 - 💬 Ask me about General ML, ComputerVision, Remote Sensing, Satellites,
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/manishsahuiitbhu/), [Email](manish.sahu.civ13@iitbhu.ac.in)
