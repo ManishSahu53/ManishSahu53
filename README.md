@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I like problem solving. Works with Data and Mobiles App dev
-- 🌱 In free time, I watch Friends, Play with Satellite Dataset
+- 🌱 In free time, I go on Bike Rides, Play with Satellite Dataset
 - 💬 Ask me about General ML, ComputerVision, Remote Sensing, Satellites,
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/manishsahuiitbhu/), [Email](manish.sahu.civ13@iitbhu.ac.in)
 - Check AaharQR Android App [Shopify for Restaurant] [Link](https://play.google.com/store/apps/details?id=com.aaharqr.aaharqr)
