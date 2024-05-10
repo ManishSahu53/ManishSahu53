@@ -5,7 +5,6 @@
 - 💬 Ask me about General ML, ComputerVision, Remote Sensing, Satellites,
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/manishsahuiitbhu/), [Email](manish.sahu.civ13@iitbhu.ac.in)
 - Check AaharQR Android App [Shopify for Restaurant] [Link](https://play.google.com/store/apps/details?id=com.aaharqr.aaharqr)
-- Check the Political Meme Generator. [Link](https://share.streamlit.io/manishsahu53/political-meme-generator/main/meme_generator.py), [Heroku](https://ministry-of-memes.herokuapp.com/)
 - Check the AI tool to Transform your CV. [Link](https://www.cvswitch.com)
 - Check the AI tool to generate Style specific assets, logos, Banner and other Marketing assets. [Link]()
 <!--
