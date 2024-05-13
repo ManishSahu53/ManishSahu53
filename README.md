@@ -5,7 +5,7 @@
 - 💬 Ask me about General ML, ComputerVision, Remote Sensing, Satellites,
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/manishsahuiitbhu/), [Email](manish.sahu.civ13@iitbhu.ac.in)
 - Check AaharQR Android App [Shopify for Restaurant] [Link](https://play.google.com/store/apps/details?id=com.aaharqr.aaharqr)
-- Check the AI tool to Transform your CV. [Link](https://www.cvswitch.com)
+- Check the AI tool to Transform your CV -> CVSwitch.com [Link](https://www.cvswitch.com)
 - Check the AI tool to generate Style specific assets, logos, Banner and other Marketing assets. [Link]()
 <!--
 **ManishSahu53/ManishSahu53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
